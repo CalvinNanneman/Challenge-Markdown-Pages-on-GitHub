@@ -7,13 +7,5 @@ The white-tailed deer (Odocoileus virginianus), also known as the whitetail or V
 ### Info about whitetail deer in Missouri [here](Page2.md)
 
 
-### See this video about whitetail deer
-<iframe 
-width="420" 
-height="315"
-src="https://www.youtube.com/watch?v=q4UjWTNeTdU"
-allow="autoplay; encrypted-media"
-allowfullscreen
->
-</iframe>
+
 
